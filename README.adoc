@@ -1,3 +1,5 @@
+HI there !
+
 image:https://spring.io/badges/spring-data-solr/ga.svg[Spring Data for Apache Solr,link=https://projects.spring.io/spring-data-solr/#quick-start]
 image:https://spring.io/badges/spring-data-solr/snapshot.svg[Spring Data for Apache Solr,link=https://projects.spring.io/spring-data-solr/#quick-start]
 
